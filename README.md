@@ -1,5 +1,8 @@
 # meta-calculator
 mini project
+
+
+
 ❖The project entitled as “**Meta-Calculator**” synchronizes the calculations of mathematical formulae.It looks at all the aspects of a calculation.
 ❖The proposed System is a web based calculator which calculates all the fundamental derivatives on mensuration topics in mathematics.
 ❖The system uses **HTML,CSS And JAVASCRIPT** as the front-end.
